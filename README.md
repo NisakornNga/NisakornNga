@@ -7,7 +7,7 @@
 <h2 align="center">📫 How to reach me:</h2>
 <div align="center"> 
   <a href="mailto:nisakorn.nga@gmail.com">
-    <img src="https://github.com/NisakornNga/NisakornNga/assets/143267481/af1002f4-34bb-4bf7-98a2-5685fec23ba3" width=100&height=100/>
+    <img src="https://github.com/NisakornNga/NisakornNga/assets/143267481/af1002f4-34bb-4bf7-98a2-5685fec23ba3" width=30&height=30/>
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
