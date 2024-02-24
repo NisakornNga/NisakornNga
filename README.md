@@ -9,8 +9,11 @@
   <a href="mailto:nisakorn.nga@gmail.com">
     <img src="https://github.com/NisakornNga/NisakornNga/assets/143267481/af1002f4-34bb-4bf7-98a2-5685fec23ba3" width=30&height=30/>
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/nisakorn-ngaosri-7297a5265/">
+    <img src="https://github.com/NisakornNga/NisakornNga/assets/143267481/cec79ded-a56e-4441-acee-e6435ac36bef"width=30&height=30/>
+  </a>
+  <a href="https://www.instagram.com/bbeam_nis/">
+    <img src="https://github.com/NisakornNga/NisakornNga/assets/143267481/34cd50d7-b477-4ec8-98b4-751d0f2e276a"width=30&height=30/>
   </a>
 </div>
 
