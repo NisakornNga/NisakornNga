@@ -21,8 +21,8 @@
 <h2 align="center">Languages-Frameworks-Tools✨</h2>
 <h3 align="center">Programming</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,matlab" /><br>
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,python,javascript,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,react,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=matlab,java,python,javascript,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=firebase,mysql,flask,aws,flutter,dart"/>
 </div>
 <h3 align="center">Graphic Design & Game Development Skills</h3>
