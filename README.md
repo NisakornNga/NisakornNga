@@ -27,7 +27,7 @@
 </div>
 <h3 align="center">Graphic Design & Game Development Skills</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=blender,figma,ai,ps,sketchup,unity" /><br>
+    <img src="https://skillicons.dev/icons?i=blender,figma,ai,ps,unity,godot" /><br>
 </div>
 
 <h2 align="center">Conclusion</h2>
