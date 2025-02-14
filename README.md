@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nisakorn+Ngaosri&color=000000" />
 </h1>
 <h3 align="center">Welcome to my GitHub Profile</h3>
-💬 I'm Nisakorn Ngaosri, a student of ICT. Here, you'll find a collection of my projects and contributions. Feel free to explore and collaborate. <br><br>
+💬 I'm Nisakorn Ngaosri, a Faculty of Information Communication and Technology (ICT) student at Mahidol. Here, you'll find a collection of my projects and contributions. Feel free to explore and collaborate. <br><br>
 
 <h2 align="center">How to reach me:</h2>
 <p align="center">📫You can contact me via these platforms:</p>
